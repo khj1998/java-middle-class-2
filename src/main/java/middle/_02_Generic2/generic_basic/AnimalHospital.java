@@ -1,4 +1,4 @@
-package middle._02_Generic2;
+package middle._02_Generic2.generic_basic;
 
 public class AnimalHospital<T extends Animal> {
     private T animal;

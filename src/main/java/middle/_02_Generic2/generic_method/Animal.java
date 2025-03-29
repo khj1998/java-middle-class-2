@@ -1,4 +1,4 @@
-package middle._02_Generic2;
+package middle._02_Generic2.generic_method;
 
 public class Animal {
     private String type;

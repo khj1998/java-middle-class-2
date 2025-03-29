@@ -1,7 +1,7 @@
-package middle._02_Generic2;
+package middle._02_Generic2.generic_basic;
 
-public class Dog extends Animal {
-    public Dog(String type, String sound, String name) {
+public class Cat extends Animal {
+    public Cat(String type, String sound, String name) {
         super(type, sound, name);
     }
 

@@ -1,6 +1,6 @@
-package middle._02_Generic2;
+package middle._02_Generic2.generic_basic;
 
-public class Client {
+public class AnimalHospitalClient {
     public static void main(String[] args) {
         Animal animal1 = new Dog("dog","월월","귀여운 리트리버");
         Animal animal2 = new Cat("cat","냐옹","고양이");
