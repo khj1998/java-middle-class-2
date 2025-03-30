@@ -1,4 +1,4 @@
-package middle._04_LinkedList;
+package middle._04_LinkedList.node;
 
 public class Node {
     Object item;
